@@ -1,0 +1,38 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "d:/670104/OneDrive - PTTOR/Documents/PlatformIO/Projects/240726-083635-hello-world/include",
+                "d:/670104/OneDrive - PTTOR/Documents/PlatformIO/Projects/240726-083635-hello-world/src",
+                "d:/670104/OneDrive - PTTOR/Documents/PlatformIO/Projects/240726-083635-hello-world/lib/cbuffer",
+                "d:/670104/OneDrive - PTTOR/Documents/PlatformIO/Projects/240726-083635-hello-world/.pio/libdeps/native/Unity/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/670104/OneDrive - PTTOR/Documents/PlatformIO/Projects/240726-083635-hello-world/include",
+                    "d:/670104/OneDrive - PTTOR/Documents/PlatformIO/Projects/240726-083635-hello-world/src",
+                    "d:/670104/OneDrive - PTTOR/Documents/PlatformIO/Projects/240726-083635-hello-world/lib/cbuffer",
+                    "d:/670104/OneDrive - PTTOR/Documents/PlatformIO/Projects/240726-083635-hello-world/.pio/libdeps/native/Unity/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60115",
+                ""
+            ],
+            "compilerPath": "C:/TDM-GCC-64/bin/gcc.exe",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
